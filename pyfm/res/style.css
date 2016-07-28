@@ -1,0 +1,44 @@
+.hidden>div {
+    display:none;
+}
+
+.visible>div {
+    display:block;
+}
+
+.item_name {
+    font-weight:bold;
+}
+
+.item_bar {
+    border: solid 1px;
+}
+
+.item_bar td {
+    width: 200px;
+}
+
+.negatif {
+    background-color: red;
+}
+
+.positif {
+    background-color: green;
+}
+
+.incomplet,
+.no_price {
+    background-color: yellow;
+}
+
+td {
+    vertical-align: top;
+}
+
+.object_name {
+    width: 250;
+}
+
+.object_price {
+    width: 100;
+}
