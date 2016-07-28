@@ -1,0 +1,3 @@
+[submodule "reader.d2o"]
+	path = reader.d2o
+	url = git@github.com:Sabotaz/reader.d2o.git
